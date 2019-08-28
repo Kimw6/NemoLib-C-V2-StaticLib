@@ -1,9 +1,9 @@
 # NemoLib-C-V2-StaticLib
 Network Motif Library C++ 
 
-# DOI
-* https://zenodo.org/badge/173347013.svg
-* https://zenodo.org/badge/latestdoi/173347013
+# Relevant Links
+* Original C++ DOI: https://zenodo.org/badge/173347013.svg
+* Original C++ DOI: https://zenodo.org/badge/latestdoi/173347013
 
 # Linux installation
 * Download the NemoLib-C-V2-StaticLib.zip
