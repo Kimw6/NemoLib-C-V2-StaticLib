@@ -20,7 +20,7 @@ Network Motif Library C++
 *Note: You can change the OUTPUT_PATH , properties->Build->Archiver
 
 # Testing NemoLib
-To test out NemoLib, we have provided another Github you can set up to use this library. Follow the instructions at https://github.com/ZachBrader/NemoLib-C-V2-Testing. 
+To test out NemoLib, we have provided another Github you can set up to use this library. Follow the instructions at https://github.com/Kimw6/NemoLib-C-V2-Testing
 
 TODO: Change Link above to be Wooyoung's Link.
 
